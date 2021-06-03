@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something in answer to a letter (which I have seen) of John Leverat, governour of Boston, to William Coddington, governour of Rhode-Island, dated 1677 wherein he mentions my name and also wherein John Leverat justifies Roger Williams's book of lyes.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40258</idno><idno type="EEBO-CITATION">11305055</idno>
+  <idno type="VID">47381</idno>
+  <idno type="EEBO-PROQUEST">2240895375</idno>
+  
+            <idno type="STC">Wing F1912</idno>
+            <idno type="STC">ESTC R30379</idno>
+            <idno type="OCLC">11305055</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something in answer to a letter (which I have seen) of John Leverat, governour of Boston, to William Coddington, governour of Rhode-Island, dated 1677 wherein he mentions my name and also wherein John Leverat justifies Roger Williams's book of lyes.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint supplied by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Coddington, William, 1601-1678.</term>
+               <term type="personal_name">Leverett, John, 1616-1679. --  Letter to William Coddington.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:47381:1"/>
+            <pb n="1" facs="tcp:47381:1"/>
+            <head>Something in ANSWER TO A LETTER (Which I have seen) Of <hi>John Leverat</hi> Governour of <hi>Boston,</hi> TO <hi>William Coddington</hi> Governour of <hi>Rode-Island,</hi> Dated, 1677.</head>
+            <head type="sub">Wherein he mentions my Name, and also wherein <hi>John Leverat</hi> justifies <hi>Roger Williams</hi>'s BOOK of LYES.</head>
+            <p>
+               <hi>JOhn Leverat</hi> faith, <hi>I am not asham'd to own my taking Care for, and being at the Charge of the coming forth of</hi> Roger Williams'<hi>s Book, entituled,</hi> Gorge Fox digged out of his Borrows — <hi>And in it there is asserting many great Truths, which they, you call Friends, turn from, &amp;c</hi> — And thou sayst con<g ref="char:EOLhyphen"/>cerning the rest of <hi>William Coddington's</hi> Letter, Thou <hi>wouldest leave it to</hi> R. Williams, <hi>who is better able to answer then thy self,</hi> &amp;c.</p>
+            <p>
+               <hi>Answ.</hi> And yet thou Patronizest his Book, and art at the Charge of bringing it forth. But what <hi>Troths</hi> those are,
+<pb n="2" facs="tcp:47381:2"/>which <hi>William Coddington</hi>'s Friends <hi>have turned from,</hi> thou hast not declared; so these are but general <hi>Calumnies.</hi> For there are no Truths, either from God or Christ, Prophets or Apostles, but we own them all. And thou who hast been found in the Steps of the former Persecutors of the Servants of the Lord (as instance the persecuting <hi>Margaret Brewster</hi>) it was likely, that thou wouldst be at the Charges of Printing and Patroni<g ref="char:EOLhyphen"/>zing <hi>Roger Williams</hi> his Book of <hi>Forgeries</hi> and <hi>Lyes,</hi> rather than to encourage <hi>Truth.</hi> But how darest thou or <hi>Roger Williams</hi> professing Truth or Christianity) say, <hi>That</hi> he <hi>digged</hi> George Fox <hi>out of his Burrows,</hi> when that he neither spoke to him nor writ to him, when <hi>G. F.</hi> was at <hi>Rode. Island,</hi> and at <hi>Providence,</hi> and at <hi>Narragansit</hi> some Moneths? when all this time <hi>Roger Williams</hi> lay in his own Burrows (as he phraseth it. And did not your Priests at <hi>Boston</hi> lie in their Burrows when <hi>James Lan<g ref="char:EOLhyphen"/>caster</hi> and <hi>John Stubbs</hi> desired a publick Discourse with them, though they could not allow them the Title, as true <hi>Christians,</hi> because of their Bloody Persecuting Spirit? And why could not your Priests have discoursed with <hi>M. Brewster,</hi> but deliver'd her up to the Barbarous Multitude, and to the secular Pōwer, <hi>Papist</hi> like? And thou giving command to Whip her, and cast her into Goal; Was she a <hi>Gain sayer?</hi> where were your Priests that they could not stop her Mouth then? were not your Priest, in their <hi>Burrows?</hi> If she had not been fent of God its like thou mightst have been at Charges to have sent for <hi>R. Williams</hi> to have helpt you, and digged him out of his Burrows. It is a Shame for you to feed a Company of Priests in their Burrows, when that a poor simple Woman should leave her Family, and come some Thousands of Miles, and be as a <hi>Sign</hi> among you of your <hi>Shame</hi> and <hi>Nakedness</hi> of God's Armour and Spiritual Wea<g ref="char:EOLhyphen"/>pons, who had no better Entertainment from you but <hi>Blows</hi> and <hi>Prisons,</hi> and your <hi>Whips</hi> and <hi>Stocks,</hi> which manifests your <hi>Diabolical Spirit,</hi> which thou speakest of (and not the Spirit of Christ) and your Nakedness of the Armoun of God and spiri<g ref="char:EOLhyphen"/>tual Weapons, and your Poverty of Heavenly Vertue and Spi<g ref="char:EOLhyphen"/>ritual Treasure. For were not your People as <hi>Mad</hi> in an <hi>Ʋp<g ref="char:EOLhyphen"/>roar,</hi> like <hi>Diana</hi>'s People against <hi>Paul,</hi> and as <hi>Mad</hi> as the <hi>Jews</hi>
+               <pb n="3" facs="tcp:47381:2"/>were against <hi>Christ</hi> and his <hi>Apostles?</hi> And was not all <hi>Jerusalem</hi> in an <hi>Ʋproar</hi> when Christ was born, who were as great Professors of God, and Christ to come, as you are? And were not the <hi>Jew's</hi> in an <hi>Ʋproar</hi> against <hi>Paul,</hi> when he went into the Temple and shaved his Head?</p>
+            <p>And did not <hi>Isaiah</hi> go Three Years <hi>Barefoot</hi> and <hi>Naked,</hi> and a <hi>Sign</hi> and a <hi>Wonder,</hi> with his Buttocks uncovered. <hi>Psa.</hi> 20? And have not you appeared as <hi>Cruel</hi> as the <hi>Aegyptians,</hi> and as <hi>Black</hi> as the <hi>Aethiopians?</hi> And doth not the Prophet <hi>Isaiah</hi> say, <hi>Behold I and the Children which God hath given me, are for</hi> Signs <hi>and for</hi> Wonders <hi>in</hi> Israel (<hi>Isaiah</hi> 8. and <hi>Heb.</hi> 2.) So they have been for <hi>Signs</hi> and for <hi>Wonders</hi> to you. Was <hi>Isaiah</hi> led with a <hi>Diabolical Spirit</hi> when the Lord commanded him to <hi>strip</hi> himself and go NAKED so long? And was he in a <hi>Di<g ref="char:EOLhyphen"/>abolical Shape?</hi> And wouldst not thou and your Priests have persecuted <hi>Isaiah</hi> (if you had been in his dayes) when he <hi>stript</hi> himself, and went NAKED?</p>
+            <p>And how darest thou say, that you were the <hi>Lord's People,</hi> and were <hi>peaceable and quiet in</hi> your Assembly, <hi>and Religiously Worshipping God in his</hi> Will, <hi>according to his Word?</hi> Which manifests, it was in your own <hi>Wills,</hi> your Fruits manifested it, by persecuting her that came in the Will of God.</p>
+            <p>And thou sayest, <hi>What thou didst therein</hi> (viz. in persecuting and whipping <hi>Margaret Brewster</hi>) <hi>was for the Lord, and by his Grace</hi> (thou sayest) <hi>I shall be yet more Vile, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> I am sorry to hear thee father thy Persecution upon the Lord God, who is Love, &amp;c. or seek to make the Lord and his Grace the Author or Cause of thy <hi>bloody Persecuting</hi> of the Lord's Servant <hi>Margaret Brewster,</hi> who came peaceably amongst you in a Mournful State: For had not she <hi>Ashes</hi> upon her Head as a Sign, for the BLOOD of them which you had formerly put to Death, the MARTYRS of JESUS, and Whipt and Banished? Had not you better have mourned in Dust and Ashes, than to have <hi>Stript</hi> and <hi>Whipt</hi> her so Cruelly as you did? And did not you seek to take away her Life? And will not the King of <hi>Nineve</hi> rise up in Judgment against you, at the great Day of the Lord, who repented at the preaching of <hi>Jonah?</hi>
+            </p>
+            <pb n="4" facs="tcp:47381:3"/>
+            <p> But Governour <hi>Leverat,</hi> seeing thou father'st thy WHIP<g ref="char:EOLhyphen"/>PING and Persecuting of <hi>Margaret Brewster</hi> (that came peace<g ref="char:EOLhyphen"/>ably amongst you) upon the Lord and his Grace; now I do de<g ref="char:EOLhyphen"/>mand of thee, and of all the Priests in <hi>New-England,</hi> where ever Christ or his Apostles, and the Church in the primitive Times, who were in the Grace of God did WHIP &amp; <hi>Impri<g ref="char:EOLhyphen"/>son</hi> any that came amongst them, as a <hi>Sign,</hi> as <hi>Margaret Brew<g ref="char:EOLhyphen"/>ster</hi> did to you some Thousands of Miles? For you profess the Scripture to be your Rule, therefore let me see any such Pra<g ref="char:EOLhyphen"/>ctice and Example in the New Testament. Nay, doth not the Apostle say, <hi>That False Prophets, and False Apostles, and False Teachers, and Satan's Messengers were got among them?</hi> But where did ever the true Apostles, and Prophets, and Teachers, and those that were Helps in Governments in the Church of Christ, in his Grace, WHIP, or Imprison, or Persecute, or HANG, or put to Death, or BRAND in the Forehead with an Hot Iron, and Spoil the Goods of the False Apostles, Satan's Messengers, False Teachers, or the Unruly Talkers, Vain Dis<g ref="char:EOLhyphen"/>puters, such as taught for Filthy Lucre, and minded Earthly Things, who served not the Lord Jesus Christ, but their own Bellies? I say, Where did ever the true Apostles and Teach<g ref="char:EOLhyphen"/>ers Whip, Hang, Brand with an Hot Iron, Banish upon Pain of Death, and Spoil the Goods of such in the Apostles dayes? Let thee, and all the <hi>New-England</hi> Priests come out of your Burrows, and give us Chapter and Verse for it? Or did ever the Bishops in Old <hi>England</hi> Hang and Whip, Cut off Ears and Banish upon pain of Death any of you, and Brand in the Fore<g ref="char:EOLhyphen"/>head, as you have done to some of the Servants of God that came amongst you? And did ever Christ Hang, Whip, Cut off Ears, Brand in the Forehead with an Hot Iron, Banish upon pain of Death such as did oppose him, and did not receive him, and blasphemed against Christ in the dayes of his Flesh, which is the Son of God, and King of Kings, who said, <hi>All Power in Heaven and Earth was given unto him;</hi> a greater Power than all you of <hi>New England</hi> have. Let all your Priests come forth and give us Chapter and Verse for this your Practice, or else for shame never say more, that the <hi>Scripture is your Rule.</hi>
+            </p>
+            <pb n="5" facs="tcp:47381:3"/>
+            <p> And is not this the Command of Christ (to them that would have pluckt up the <hi>Tares</hi>) <hi>Let both</hi> Tares <hi>and</hi> Wheat <hi>grow toge<g ref="char:EOLhyphen"/>ther, till the Harvest, left they pluck up the</hi> Wheat, <hi>&amp;c.</hi> And did not Christ Rebuke such, as would have had their Lives de<g ref="char:EOLhyphen"/>stroyed that did not receive him, and told them, <hi>They did not know what Spirit they were of,</hi> and how that he came to <hi>save mens Lives, and not to destroy them?</hi> And now have not <hi>New-England</hi>'s Priests and Professors manifested themselves, that they do not know their own Spirits, neither what Spirit they are of, who have Banished upon pain of Death, Branded in the Forehead with an Hot Iron, Cut off Ears, Spoiled their Goods, put to Death and Whipped, as you have done, like the <hi>Papists</hi> and the <hi>Jews?</hi> For indeed, the <hi>Jews</hi> Whipt the Apostles, and persecuted them; and therefore how can you have the Name of true <hi>Christians,</hi> which do not shew forth the Fruits of Christ's Spirit, but to be such as go in <hi>Cain</hi>'s Way, persecuting; and not in <hi>Abel</hi>'s. And Christ's Command was, <hi>First to pluck the Beam out of their own Eye,</hi> before they <hi>judged</hi> others. And now see if the Beam be pluckt out of thy own Eye, and of the Priests.</p>
+            <p>And as for thy saying, <hi>There were many Truths in</hi> Roger Wil<g ref="char:EOLhyphen"/>liams'<hi>s Book, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> The <hi>Jews</hi> and <hi>Antichrists</hi> may speak True Words, and yet out of Truth; and the <hi>Devil</hi> could speak Scriptures, who abode not in the Truth, and <hi>there is no Truth in him.</hi> And so may <hi>Roger Williams</hi> speak some True Words, but is manifest<g ref="char:EOLhyphen"/>ly out of it, as by his Book appears. And the Devil he was a Lyar and a Murderer from the beginning, and his Works you have done, as Christ said to the <hi>Jews,</hi> those great Professors. My Desires are, That you may give over your Work of Per<g ref="char:EOLhyphen"/>secution, and come to be Meek and Humble, and Learn of Christ Jesus, who will never teach you to persecute. And do not father your Murdering, Bloody, Persecuting, Jewish and Popish Spirit upon God nor Christ, nor his Grace, because People will not bow to your Image, and receive your Rudi<g ref="char:EOLhyphen"/>ments and Traditions, and your Precepts you teach for Do<g ref="char:EOLhyphen"/>ctrine; but have neglected the Command of Christ, which is,
+<pb n="6" facs="tcp:47381:4"/>
+               <hi>To love both Friends and Enemies.</hi> And you may see plainly, that Christ would have none put to Death for not recei<g ref="char:EOLhyphen"/>ving him; and told them then, <hi>They did not know what Spi<g ref="char:EOLhyphen"/>rit they were of:</hi> And is not Christ the same now, and this Persecuring Spirit the same now, as it was then, as your Fruits manifest? And therefore, how can you think that we can trust our Bodies, Souls and Spirits into your Hands, who do not know your own Spirits? But we commend them into the Hand of Christ Jesus, our Re<g ref="char:EOLhyphen"/>deemer and Saviour, who hath bought us with his precious Blood.</p>
+            <p>And the Apostle saith, <hi>Be not forgetful to Entertain Stran<g ref="char:EOLhyphen"/>gers, for some have entertained Angels unawares.</hi> And both the Law and Gospel commend this Practice. But your Pra<g ref="char:EOLhyphen"/>ctice has clearly shewed the contrary. And therefore Re<g ref="char:EOLhyphen"/>pent, and while you have time prize it. And if you have no Command from Christ nor his Apostles (who say the <hi>Scripture</hi> is your <hi>Rule</hi> for your Faith, Doctrine and Pra<g ref="char:EOLhyphen"/>ctice) to Whip Men and Women till you cleaved the Teats of their Breasts (as you did to <hi>Anne Col<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man</hi>) and to Cut Off Ears, and to Brand in the Forehead with and Hot Iron, and to Imprison and Banish upon Pain of Death, and to Hang, and to Spoil Goods (only upon the Account of Re<g ref="char:EOLhyphen"/>ligion) and Seize upon Goods sent to others, that come by Ship, without giving any Account of them (as <hi>William Cod<g ref="char:EOLhyphen"/>dington</hi> Governour of <hi>Rode-Island</hi> demanded) Have you not practised all these things contrary to the Rule of the New Te<g ref="char:EOLhyphen"/>stament?</p>
+            <p>And when you fled out of Old <hi>England,</hi> upon the Ac<g ref="char:EOLhyphen"/>count of Religion from the Bishops, and the KING was pleased to give you a <hi>Patent,</hi> did the King in his <hi>Patent</hi> allow or grant you, that you should Hang or Burn his Sub<g ref="char:EOLhyphen"/>jects with a Hot Iron, and Cut Off Ears, and Banish upon pain of Death, and Spoil their Goods, and whip such as were not of your Religion, for Religions sake? Look your <hi>Patent,</hi> and see if the King hath granted you that Liberty,
+<pb n="7" facs="tcp:47381:4"/>or you have gone contrary to it, and contrary to the Scrip<g ref="char:EOLhyphen"/>tures, Christ and the Apostles. And we cannot expect but that such a spirit will promote and be at Charges of any Calumnious Book that is published against us; for <hi>Herod</hi> and <hi>Pilate</hi> were made Friends when they turned against Christ; and its like, you and <hi>Roger Williams</hi> are made Friends in your turning a<g ref="char:EOLhyphen"/>gainst God's People and his Truth now.</p>
+            <p>And were not <hi>Roger Williams</hi> and all your Priests in their Burrows when <hi>G. F.</hi> was in your Country, and never one ap<g ref="char:EOLhyphen"/>peared? And now to Rail behind his Back, when he is gone, and for thee to Patronize and be at Charges of <hi>R. W</hi>'s Book of Lyes, and Scoffing Title, to say, <hi>That he digged</hi> G F. <hi>out of his Burrows,</hi> and yet never appeared when <hi>G. F.</hi> was there in the Country, to speak or write to him. This brings not Cre<g ref="char:EOLhyphen"/>dit to thee, nor you, nor him, neither as Men, nor as <hi>Chri<g ref="char:EOLhyphen"/>stians:</hi> But its not my Desire, that thou and you should believe Lyes, who know the Portion of such; but that you may Repent, and do so no more, lest a worse thing come unto you.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:47381:5"/>
+            <head>For all the Persecuting Rulers, Priests and Of<g ref="char:EOLhyphen"/>ficers in <hi>New-England</hi> to consider these following QUERIES.</head>
+            <p n="1">I. VVHether or no, if another Power should be set o<g ref="char:EOLhyphen"/>ver you, and to bring you to conform to that Fower's Religion that is set over you, that you would Lose your GOODS, and have them SPOILED, and be Seized upon by Sea and Land, and have your EARS CUT OFF, and be BRANDED in the Forehead with an Hot Iron, and be cast into those Cold Prisons, and be WHIPPED in Prison until your Bodies were like a Jelly; and be WHIPPED, Men and Women, through as many Towns as you have done the People of God in scorn called <hi>Quakers?</hi> Could you stand these things for your Religion, before you would conform and suffer the same Punishments for it, as you have inflicted upon others for your Religion? Or is your Religion worth Suffering for by you Priests and Rulers? and if not, then do not find fault with the <hi>Quakers,</hi> for not conforming to your Religion, that you dare not stand to your selves, when that you are tryed; which you do not know, how that you may be tryed for it before you Dye.</p>
+            <p n="2">II. And also; Could you stand to your Religion, and be BANISHED upon pain of DEATH, from your Wives and Children, Lands, Houses and Goods, and be HANGED up<g ref="char:EOLhyphen"/>on Gallowses, before that you would conform to another Reli<g ref="char:EOLhyphen"/>gion that should be set over you, as you have done to the Peo<g ref="char:EOLhyphen"/>ple called <hi>Quakers;</hi> and have a great FINE set upon you for your Spreading, or Recommending, or Bringing any Books ac<g ref="char:EOLhyphen"/>cording to your Judgment of Religion? And whosoever Re<g ref="char:EOLhyphen"/>ceive any of your Friends, or Entertain them, to have a great FINE set upon them, as you have done to the <hi>Quakers?</hi>
+            </p>
+            <p>So see if that you could bear and suffer for your Religion, as
+<pb n="9" facs="tcp:47381:5"/>you have done to others, the same Punishments; and let us see if you do not that to others, which you would not have others to do unto you; and so see if that you be in the Practice either of the Law or Gospel, and not out of both: And what do you think of the <hi>Pre<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>byterians</hi> and <hi>Independents,</hi> that did persecute <hi>Friends</hi> in other places where they had Power; and when they came to be try'd, how they did shrink themselves from that, their <hi>Church-Faith</hi> and <hi>Directory,</hi> and dare hardly mention it, or read it pub<g ref="char:EOLhyphen"/>lickly; though they Persecuted and Imprisoned some Thousands of us, and some to Death, besides the spoiling of our Goods, only for Conscience sake, because we could not submit to their Wills.</p>
+            <p>And therefore consider you your selves, how you would stand, if that you come to the Day of your Tryal of God and Man; and therefore give over your Persecution either by Tongue or Hand, and <hi>Do unto all men as you would have them do unto you;</hi> and study to be quiet; for the Lord will render to every man according to his Works: and what account will you give unto the Lord at the Day of Judgment, when he co<g ref="char:EOLhyphen"/>meth with all his holy Angels, to render Vengeance upon all Evil Doers, and to separate the Sheep from the Goats? I do fear many of you will be found Goats, and therefore you had better give over your <hi>Cruelty</hi> and <hi>Persecution,</hi> and break off your Sins by Repentance, that the Lord may shew you Mercy; and put off your <hi>old man</hi> with his <hi>deeds,</hi> and come to know what are the <hi>fruits</hi> of the <hi>flesh</hi> from the <hi>fruits</hi> of the <hi>spirit,</hi> seeing <hi>every Tree is known by its fruit;</hi> and read the <hi>end</hi> of the <hi>evil tree,</hi> &amp; see which <hi>tree</hi> you are; for Christ saith, <hi>It is not every one that saith</hi> Lord, Lord, <hi>that shall enter into the Kingdom of God:</hi> and he speaketh of such as have preached Christ, and boast of what they have done; but he will say unto such, <hi>Depart from me, ye Workers of Iniquity, I know you not.</hi> And therefore examine your selves, whether you be not the people, yea or nay; for they that do enter into the <hi>Kingdom of God,</hi> are they that do the <hi>Will of God:</hi> And dare you say, that you have done the <hi>Will of Christ,</hi> or the <hi>will</hi> and <hi>lusts</hi> of the <hi>Devil,</hi> the <hi>Destroyer,</hi> that have thus <hi>Persecuted</hi> and <hi>Mur<g ref="char:EOLhyphen"/>dered</hi> God's People? And then consider into whose Kingdom you do enter.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="10" facs="tcp:47381:6"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Governour <hi>John Leverat;</hi>
+               </salute>
+            </opener>
+            <p>AS to the Great, Cruel and Bloody Persecutions (her in mention'd) which the People of God called <hi>Quakers</hi> have suffered in <hi>New-England</hi> (as aforesaid) they are not any further charged upon thee than thou hast render'd thy self guilty thereof, by acting therein, or consenting thereto. The said Persecution (as is before briefly hinted) are truly chargeable upon the Persecuting Magistrates, Priests and People of <hi>New-England:</hi> And it is our tender Desire, that all concerned there<g ref="char:EOLhyphen"/>in (who have not yet sinned out the Day of God's tender Vi<g ref="char:EOLhyphen"/>sitation) may come into Godly Sorrow and Unfeigned Re<g ref="char:EOLhyphen"/>pentance for these great and Crying Sins, that they may find Mercy with the Lord God, who will reward the Blood-guilty, Hard hearted, Impenitent Ones according to their Ungodly Deeds.</p>
+            <p>Oh! it is greatly to be lamented, that the Professors in <hi>New-England</hi> should turn such Cruel and Bloody Persecutors of the Lord's People, ONLY <hi>for the Exercise of their tender Consci<g ref="char:EOLhyphen"/>ences</hi> in the Worship of God, whose Worship is in Spirit and Truth, as our Lord Jesus Christ hath said; who were once Suf<g ref="char:EOLhyphen"/>ferers themselves in some small measure for the Exercise of their Consciences in Religious Matters! These Cruelties, exerci<g ref="char:EOLhyphen"/>sed against their Peaceable Neighbours, and against their Country-men, who travailed out of Old <hi>England</hi> in the Love of God to visit them, and to tell them what he hath done for their Souls, doth not only shew their great Apostacy from Christianity, but also their being without Natural Af<g ref="char:EOLhyphen"/>fection.</p>
+            <pb n="11" facs="tcp:47381:6"/>
+            <p>
+               <hi>John Leverat;</hi> 'Tis our Desire for thy own Good, as well as for the Just and Equal Liberty of our Friends in the Exercises of their tender Consciences in the Worship and Service of God, that thou concern thy self not further in this Evil Work; but let thy Authority be exercised to terrifie Murderers, Thieves, Drunkards, Swearers, Lyars, and to suppress. Whore<g ref="char:EOLhyphen"/>doms and all Debauchery, and Ungodly and Prophane Living; and to encourage those who do live Virtuously, Soberly and Justly: and this will not only cause thee to be beloved of, and honoured by all Virtuous, Sober and Just Men and Women, who behold thee thus to exercise thy Power; but it will render thee Honoured and Blessed of God.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
